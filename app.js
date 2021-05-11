@@ -20,7 +20,7 @@ res.sendFile(__dirname+"/index.html");
 app.post("/", function(req, res){
 
 
-  const apikey = "AIzaSyBlitm9EvJrDbe77tdjaEktd3R_x6xawYg";
+  const apikey = "";
   var place = "Mistimukh%20Chingrighata%20Kolkata";
         
     
